@@ -1,8 +1,0 @@
-[submodule "simulator/extern/pybind11"]
-	path = simulator/extern/pybind11
-	url = https://github.com/pybind/pybind11
-	branch = stable
-[submodule "simulator/extern/eigen"]
-	path = simulator/extern/eigen
-	url = https://gitlab.com/libeigen/eigen
-	branch = master
