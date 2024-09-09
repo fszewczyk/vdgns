@@ -8,7 +8,7 @@ Lifelike visualizations in design, cinematography, and gaming rely on precise ph
 
 This architecture integrates two components: a Video Encoder, which captures the system's physical properties, and a standard Graph Network-based Simulator (GNS). Given a sequence of video frames representing a system, the Video Encoder generates a latent vector representing the system's physical attributes, allowing the full trajectory of the system to be inferred from an initial condition. Training involves a customized batching process to ensure the Video Encoder focuses on the system's physical properties rather than specific motions. We implement the Video Encoder using a an LSTM, and the GNS components as Multi-Layer Perceptrons.
 
-<img src="architecture.png" style="width: 50%"/>
+<img src="architecture.png" style="width: 60%"/>
 
 ## Results
 
