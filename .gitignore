@@ -1,0 +1,12 @@
+*.vscode
+*.mp4
+*.so
+*.npy
+*.html
+*.tar.gz
+
+.clang-format
+build/
+__pycache__/
+datasets/
+.DS_Store
