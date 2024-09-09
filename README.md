@@ -2,6 +2,8 @@
 
 ## Abstract
 
+![VDGNS](vdgns.gif)
+
 Lifelike visualizations in design, cinematography, and gaming rely on precise physics simulations, typically requiring extensive computational resources and detailed physical input. This paper presents a method that can infer a system's physical properties from a short video, eliminating the need for explicit parameter input, provided it is close to the training condition. The learned representation is then used within a Graph Network-based Simulator to emulate the trajectories of physical systems. We demonstrate that the video-derived encodings effectively capture the physical properties of the system and showcase a linear dependence between some of the encodings and the system's motion.
 
 ## Architecture
